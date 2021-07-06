@@ -1,1 +1,1 @@
-Hello, Linhong!
+Goodbye Lin!
